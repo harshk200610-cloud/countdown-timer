@@ -44,9 +44,13 @@ This project allows users to enter time in seconds and start a countdown that de
 ## Project Structure
 countdown-timer
 │
+
 ├── index.html → Main HTML structure
+
 ├── style.css → Styling and layout
+
 ├── script.js → Timer logic and functionality
+
 └── README.md → Project documentation
 
 ---
