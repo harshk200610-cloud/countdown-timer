@@ -43,7 +43,6 @@ This project allows users to enter time in seconds and start a countdown that de
 
 ## Project Structure
 countdown-timer
-│
 
 ├── index.html → Main HTML structure
 
