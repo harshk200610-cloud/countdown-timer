@@ -79,7 +79,7 @@ Possible enhancements:
 
 ---
 ## Output Images
-<img width="500" height="500" alt="Screenshot 2026-04-03 174038" src="https://github.com/user-attachments/assets/5c82f7fd-d07f-44b1-90d4-0b6673a01c5e" />
+<img width="600" height="500" alt="Screenshot 2026-04-03 174038" src="https://github.com/user-attachments/assets/5c82f7fd-d07f-44b1-90d4-0b6673a01c5e" />
 <img width="500" height="500" alt="Screenshot 2026-04-03 174101" src="https://github.com/user-attachments/assets/ab0fc2c7-a322-4d29-94c4-e808dc89b8f8" />
 
 ## Author
